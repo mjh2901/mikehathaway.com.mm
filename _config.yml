@@ -94,7 +94,7 @@ analytics:
 author:
   name             : "Mike Hathaway"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "I am excellen."
+  bio              : "I am excellent"
   location         : "California"
   links:
     - label: "This Website"

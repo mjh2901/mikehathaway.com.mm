@@ -23,6 +23,12 @@ last_modified_at: 2022-08-31T16:20:02-05:00
 ---
 Ghost started wanting a databse, Jekyll not so much
 
+
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>Step one to start setting up a new Jekyll Site.</figcaption>
+</figure>
+
 {% capture fig_img %}
 ![Foo]({{ '/assets/images/unsplash-gallery-image-3.jpg' | relative_url }})
 {% endcapture %}

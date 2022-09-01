@@ -3,10 +3,10 @@ title: "From Ghost to Jekyll"
 excerpt: "No one wants a database."
 collection: "posts"
 header:
-  overlay_image: /assets/images/yoseit_cover.png
+  overlay_image: /assets/images/yosemit_cover.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  teaser: /assets/images/ysemit_cover.png
+  teaser: /assets/images/yosemit_cover.png
   actions:
     #- label: "More Info"
     #  url: "https://unsplash.com"

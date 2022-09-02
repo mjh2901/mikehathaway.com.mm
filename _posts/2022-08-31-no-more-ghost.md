@@ -25,9 +25,7 @@ The Ghost version this site was based on was Ghost in Production mode using SQli
 
 Lets light a match
 
-{% capture fig_img %}
 ![Foo]({{ '/assets/images/match.jpg' | relative_url }})
-{% endcapture %}
 
 So Why swtich to Jekyll?
 

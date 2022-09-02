@@ -25,14 +25,13 @@ The Ghost version this site was based on was Ghost in Production mode using SQli
 
 Lets light a match
 
-#<figure>
-#  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-#  <figcaption>Step one to start setting up a new Jekyll Site.</figcaption>
-#</figure>
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>Step one to start setting up a new Jekyll Site.</figcaption>
+</figure>
 {% capture fig_img %}
 ![Foo]({{ '/assets/images/match.jpg' | relative_url }})
 {% endcapture %}
-
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
   <figcaption>Photo from Unsplash.</figcaption>

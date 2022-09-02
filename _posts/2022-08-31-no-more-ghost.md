@@ -7,10 +7,10 @@ header:
   og_image: /assets/images/ghost.png
   overlay_image: /assets/images/ghost.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  actions:
-    - label: "More Info"
-      url: "https://unsplash.com"
+# caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+# actions:
+#  - label: "More Info"
+#      url: "https://unsplash.com"
 categories:
   - Blog
 tags:
@@ -25,17 +25,9 @@ The Ghost version this site was based on was Ghost in Production mode using SQli
 
 Lets light a match
 
-<figure>
-  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Step one to start setting up a new Jekyll Site.</figcaption>
-</figure>
 {% capture fig_img %}
 ![Foo]({{ '/assets/images/match.jpg' | relative_url }})
 {% endcapture %}
-<figure>
-  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Photo from Unsplash.</figcaption>
-</figure>
 
 So Why swtich to Jekyll?
 

@@ -14,9 +14,10 @@ header:
 #      url: "https://unsplash.com"
 ---
 
-#Contact Mike
-##Here's how to reach me!
+# Contact Mike
+## Here's how to reach me!
 
-- @mikehathaway on Twitter
-- @mikehathaway on Facebook
-- @(408) 725-4511
+- [Twitter](https://twitter.com/mikehathaway)
+- [Facebook](https://facebook.com/mikehathawy)
+- 
+- (408) 725-4511

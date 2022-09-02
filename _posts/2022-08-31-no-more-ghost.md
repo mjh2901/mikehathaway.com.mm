@@ -1,3 +1,4 @@
+---
 title: "From Ghost to Jekyll"
 excerpt: "No one wants a database."
 collection: "posts"

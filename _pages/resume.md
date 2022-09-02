@@ -41,4 +41,3 @@ Chief Job Steward - California School Employees Association
 Classified Employee of the Year - FUHSD Adult School
 Dublin Police Services Citizens Academy - Dublin Police Department
 
-![Foo]({{ '/assets/images/digbe.png' | relative_url }})

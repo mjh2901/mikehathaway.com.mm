@@ -1,0 +1,23 @@
+---
+title: "Contact"
+permalink: /contact/
+date: 2016-02-24T03:02:20+00:00
+excerpt: "Loo Me Up"
+header:
+  teaser: /assets/images/phone.jpg
+  og_image: /assets/images/phone.jpg
+  overlay_image: /assets/images/phone.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+# caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+# actions:
+#  - label: "More Info"
+#      url: "https://unsplash.com"
+last_modified_at: 2022-09-01T16:20:02-05:00
+---
+
+#Contact Mike
+##Here's how to reach me!
+
+- @mikehathaway on Twitter
+- @mikehathaway on Facebook
+- @(408) 725-4511

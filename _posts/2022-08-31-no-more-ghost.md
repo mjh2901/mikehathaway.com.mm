@@ -12,12 +12,10 @@ header:
     - label: "More Info"
       url: "https://unsplash.com"
 categories:
-  - Layout
-  - Uncategorized
+  - Blog
 tags:
-  - edge case
-  - image
-  - layout
+  - Ghost
+  - Jekyll
 last_modified_at: 2022-08-31T16:20:02-05:00
 ---
 
@@ -27,11 +25,10 @@ The Ghost version this site was based on was Ghost in Production mode using SQli
 
 Lets light a match
 
-<figure>
-  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Step one to start setting up a new Jekyll Site.</figcaption>
-</figure>
-
+#<figure>
+#  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+#  <figcaption>Step one to start setting up a new Jekyll Site.</figcaption>
+#</figure>
 {% capture fig_img %}
 ![Foo]({{ '/assets/images/match.jpg' | relative_url }})
 {% endcapture %}

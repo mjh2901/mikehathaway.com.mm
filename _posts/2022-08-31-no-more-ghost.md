@@ -20,6 +20,7 @@ tags:
   - layout
 last_modified_at: 2022-08-31T16:20:02-05:00
 ---
+
 I have a bad habbit of switching the backends of my website.  Hey this is IT and development so trying new things is just part of the process.  When I developed the Ghost version of this website, I wrote the script to publish the site on GitHub pages.  I thought I was done.  I would use ghost from this point on... unless Ghost did something earth shatteringly bad.  Well Ghost did.
 
 The Ghost version this site was based on was Ghost in development mode.  The key difference was in Development mode ghost used a flat file database that was stored with the site.  Production Ghost lets you choose to use a flat file, or MySQL/MariaDB database.  Over time this started to change.  First Ghost production started to require a full SQL datase.  Now more recently they have removd the ability to use a flat file database all together.  This leaves me in a lurch, my dev site no longer functions after an automated docker update.  While Yes I know its my fault I have to figure out what to do.  I can reinstall an older version of Ghost then export the site, install a new version of ghost and data base server and import the site.... Or I can burn it all and try something different.

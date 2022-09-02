@@ -1,7 +1,7 @@
 ---
 title: "About"
 permalink: /about/
-date: 2016-02-24T03:02:20+00:00
+$ date: 2016-02-24T03:02:20+00:00
 excerpt: "About the Author"
 header:
   teaser: /assets/images/train.png
@@ -12,7 +12,6 @@ header:
 # actions:
 #  - label: "More Info"
 #      url: "https://unsplash.com"
-last_modified_at: 2022-09-01T16:20:02-05:00
 ---
 
 Mike Hathaway currently spends his time at Fremont Union High School District working on anything that plugs into something else, and some light carpentry.  When not working on systems, writing documentation or hacking out a bit of code you can find him standing in front of a group of people sharing his pashions and hopefully training them on whatever new challenge they are facing.

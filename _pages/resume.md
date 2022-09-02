@@ -12,7 +12,6 @@ header:
 # actions:
 #  - label: "More Info"
 #      url: "https://unsplash.com"
-#last_modified_at: 2022-09-01T16:20:02-05:00
 ---
 
 ### CAREER PROFILE

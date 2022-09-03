@@ -15,6 +15,15 @@ excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef 
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
+
+feature_row1:
+    - image_path: /assets/images/ghost.png
+      alt: "Ghost Image"
+      title: "No More Ghost"
+      excerpt: 'I have a bad habbit of switching the backends of my website.  Hey this is IT and development so trying new things is just part of the process.  When I developed the Ghost version of this website, I wrote a script to publish the site on GitHub pages.  I thought I was done.  I would use ghost from this point on... unless Ghost did something earth shatteringly bad.  Well Ghost did. **Markdown** formatting. Left aligned with `type="left"`'
+      url: "#test-link"
+      btn_label: "Read More"
+      btn_class: "btn--primary"
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 1"

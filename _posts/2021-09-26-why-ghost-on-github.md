@@ -1,3 +1,4 @@
+---
 title: "Who Ghost on Github pages"
 excerpt: "Ghost can be a simple way to setup a self hosted blog"
 collection: "posts"

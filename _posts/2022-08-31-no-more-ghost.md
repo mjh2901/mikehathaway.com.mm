@@ -2,6 +2,7 @@
 title: "From Ghost to Jekyll"
 excerpt: "No one wants a database."
 collection: "posts"
+permalink: /post/no_more_ghost/
 header:
   teaser: /assets/images/ghost.png
   og_image: /assets/images/ghost.png

@@ -41,7 +41,7 @@ sudo dnf module install nodejs:14
 node -v
 ```
 
-![Foo]({{ '/assets/images/posts/ghosts/ghost-install-1.png' | relative_url }})
+![Foo]({{ '/assets/images/posts/ghost/ghost-install-1.png' | relative_url }})
 
 2. Setup Ghost & Ghost Static Site Generator
 
@@ -52,7 +52,7 @@ sudo npm install ghost-cli@latest -g
 sudo npm install -g ghost-static-site-generator
 ```
 
-![Foo]({{ '/assets/images/posts/ghosts/ghost-install-2.png' | relative_url }})
+![Foo]({{ '/assets/images/posts/ghost/ghost-install-2.png' | relative_url }})
 
 3. Setup and start a ghost website
 

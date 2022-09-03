@@ -9,7 +9,7 @@ main:
 
 #  - title: Year Archive
 #    url: /year-archive/
-  - title: "Collections"
+  - title: "Posts"
     url: /collection-archive/
   - title: "Sitemap"
     url: /sitemap/

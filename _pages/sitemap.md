@@ -3,6 +3,15 @@ layout: archive
 title: "Sitemap"
 permalink: /sitemap/
 author_profile: false
+header:
+  teaser: /assets/images/goonies-map.jpg
+  og_image: /assets/images/goonies-map.jpg
+  overlay_image: /assets/images/goonies-map.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+# caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+# actions:
+#  - label: "More Info"
+#      url: "https://unsplash.com"
 ---
 
 A list of all the posts and pages found on the site. For you robots out there is an [XML version]({{ '/sitemap.xml' | relative_url }}) available for digesting as well.

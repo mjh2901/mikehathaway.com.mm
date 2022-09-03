@@ -20,5 +20,5 @@ header:
 - [Email](mailto:mikehathaway.com)
 - [Twitter](https://twitter.com/mikehathaway)
 - [Facebook](https://facebook.com/mikehathaway)
-- [Linked In][https://www.linkedin.com/in/hathawaymike/]
+- [Linked In](https://www.linkedin.com/in/hathawaymike/)
 - (408) 725-4511

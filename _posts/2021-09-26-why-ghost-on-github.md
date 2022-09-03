@@ -11,7 +11,7 @@ categories:
   - Blog
 tags:
   - Ghost
-last_modified_at: 2021-09-26T16:20:02-05:00
+# last_modified_at: 2021-09-26T16:20:02-05:00
 ---
 
 The process of bringing this website online involved a lot of trial and error.  Part of was caused by the normal issues one runs into when self hosting and the rest where a large number of instructions, and scripts designed for older or different operating systems and older versions of node, npm and python refusing to work as documented.    

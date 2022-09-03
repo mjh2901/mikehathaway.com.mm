@@ -11,7 +11,7 @@ categories:
   - Blog
 tags:
   - Ghost
-last_modified_at: 2021-10-02T16:20:02-05:00
+# last_modified_at: 2021-10-02T16:20:02-05:00
 ---
 
 ## How to install Rocky Linux.

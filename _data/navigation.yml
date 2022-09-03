@@ -10,7 +10,7 @@ main:
 #  - title: Year Archive
 #    url: /year-archive/
   - title: "Posts"
-    url: /collection-archive/
+    url: /posts/
   - title: "Sitemap"
     url: /sitemap/
 
